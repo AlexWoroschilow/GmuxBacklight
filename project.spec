@@ -5,7 +5,7 @@ Release: %(date +"%Y%m%d")
 Group: System Environment/Kernel
 License: MIT
 BuildArch: noarch
-Requires(pre): python
+Requires(pre): python3
 
 
 %description
