@@ -1,5 +1,5 @@
 # Deepin gmux backlight fix
-This is a fix for the problem desripbed here:
+This is a fix for the problem described here:
 https://bbs.deepin.org/forum.php?mod=viewthread&tid=141241
 
 I did the test under Deepin 15.9.2 only with the intel_backlight.
