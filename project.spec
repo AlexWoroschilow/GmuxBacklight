@@ -9,7 +9,7 @@ Requires(pre): python3
 
 
 %description
-Alle Online Präventionskurse sind von der Prüfstelle für Prävention zertifiziert und erfüllen die Qualitätskriterien. Egal ob Bewegung, gesunde Ernährung, Stressbewältigung oder die Online Rückenschule – bei fitbase finden Sie den passenden Präventionskurs. Alle Online Gesundheitskurse haben eine Dauer von 8 bzw. 12 Wochen, zusätzlich haben Sie eine „Pufferzeit“ von vier Wochen für Krankheit, Urlaub o.ä. Die Präventionskurse sind für jeden zugänglich und so konzipiert, dass Sie direkt starten können. Durch unsere Erinnerungsfunktion verpassen Sie keine Einheit.
+gmux fix
 
 %prep
 %setup -q
